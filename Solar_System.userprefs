@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimeScale.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EarthSystemController.cs" Line="38" Column="4" />
+      <File FileName="Assets/Scripts/MarsController.cs" Line="36" Column="30" />
+      <File FileName="Assets/Scripts/ZoomTarget.cs" Line="98" Column="31" />
+      <File FileName="Assets/Scripts/TimeScale.cs" Line="23" Column="66" />
+      <File FileName="Assets/Scripts/VenusController.cs" Line="37" Column="22" />
+      <File FileName="Assets/Scripts/Rotation.cs" Line="10" Column="6" />
+      <File FileName="Assets/Scripts/MercuryController.cs" Line="35" Column="33" />
+      <File FileName="Assets/Scripts/MoonController.cs" Line="27" Column="29" />
+      <File FileName="Assets/Scripts/EarthClick.cs" Line="27" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/d_d/Documents/Unity/Solar_System/Assets/Scripts/EarthSystemController.cs" line="63" column="1" />
+      <Breakpoint file="/Users/d_d/Documents/Unity/Solar_System/Assets/Scripts/EarthSystemController.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

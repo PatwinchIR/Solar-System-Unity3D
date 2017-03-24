@@ -1,0 +1,14 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="EarthClick" preserve="all"/>
+<type fullname="EarthSystemController" preserve="all"/>
+<type fullname="MarsController" preserve="all"/>
+<type fullname="MercuryController" preserve="all"/>
+<type fullname="MoonController" preserve="all"/>
+<type fullname="Revolution" preserve="all"/>
+<type fullname="Rotation" preserve="all"/>
+<type fullname="TimeScale" preserve="all"/>
+<type fullname="VenusController" preserve="all"/>
+<type fullname="ZoomTarget" preserve="all"/>
+</assembly>
+</linker>
