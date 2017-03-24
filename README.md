@@ -14,6 +14,9 @@ The planet detail info, and the relative radius and orbit speed is from [Planet 
 The texture file is from [Solar System Scope](http://www.solarsystemscope.com/textures/).
 
 # Preview
+This is a [WebGL preview](https://patwinchir.github.io/Solar-System-Unity3D/), welcome to play around.
+
+
 Solar System:
 
 [![Screen Shot 2017-03-24 at 15.56.09.png](https://svbtleusercontent.com/sjrtma6qqwdsq_small.png)](https://svbtleusercontent.com/sjrtma6qqwdsq.png)
