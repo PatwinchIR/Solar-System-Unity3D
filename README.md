@@ -10,8 +10,11 @@ This project is based on C# on Unity3D 5.5.2f1 Personal version. Simulated some 
 - Mars
 
 This simulator is only for learning Unity3D, not for scientific use. 
+
+### Thanks to:
 The planet detail info, and the relative radius and orbit speed is from [Planet Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html).
 The texture file is from [Solar System Scope](http://www.solarsystemscope.com/textures/).
+The background picture is from GitHub user [off99555](https://github.com/off99555/Solar-System-Simulation/tree/master/Assets/SolarSystemAssets/Materials).
 
 # Preview
 This is a [WebGL preview](https://patwinchir.github.io/Solar-System-Unity3D/), welcome to play around.
