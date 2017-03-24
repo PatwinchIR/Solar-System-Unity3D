@@ -35,3 +35,4 @@ Venus:
   4. Distance to Sun
 2. Left mouse hold to change the view(this will affect the planet info view)
 3. Right mouse hold to zoom in/out.
+4. Time Scale is for speeding up/slowing down the time.
