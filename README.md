@@ -1,4 +1,4 @@
-# Solar System Unity3D
+# Solar System Unity3D [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is based on C# on Unity3D 5.5.2f1 Personal version. Simulated some planets in solar system:
 - Sun
